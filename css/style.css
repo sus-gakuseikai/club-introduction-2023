@@ -16,13 +16,6 @@ li.indent {
   box-sizing: border-box;
 }
 
-
-
-
-ul.list-unstyled{
-  list-style: none;
-}
-
 div#toc-container{
   width: auto;
   height: fit-content;
@@ -30,16 +23,6 @@ div#toc-container{
   border: 1px solid gray;
   background-color: rgb(210, 232, 247);
   box-sizing: border-box;
-}
-
-a.text-decoration-none{
-  cursor: pointer;
-  width: 100px;
-  text-decoration: none;
-}
-
-a.text-decoration-none:hover {
-  text-decoration: underline;
 }
 
 h2{
