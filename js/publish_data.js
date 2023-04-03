@@ -2,18 +2,18 @@ const publish_info = [
   {
     category: '総務系',
     clubs: [
-      { clubName: 'Sample1',
-        id: '01-Sample1',
+      { clubName: '新風祭実行委員会',
+        id: '02-shinpu',
         isMovie: false,
         movieUrl: '',
         links: [
           {
             label: 'Twitter',
-            url: 'https://twitter.com/suwa_gakuseikai'
+            url: 'https://twitter.com/shinpusai'
           },
           {
-            label: '公式ホームページ',
-            url: 'http://suwarikastud.wp.xdomain.jp/'
+            label: 'HP',
+            url: 'https://recsuwa.net/'
           }
         ]
       },
@@ -22,71 +22,148 @@ const publish_info = [
   {
     category: '運動系',
     clubs: [
-      { clubName: 'Sample2',
-        id: '02-Sample2',
+      { clubName: 'Workout部',
+        id: '03-workout',
+        isMovie: false,
+        movieUrl: '',
+        links: []
+      },
+      { clubName: '陸上競技部',
+        id: '05-rikujou',
         isMovie: false,
         movieUrl: '',
         links: [
           {
-            label: 'Twitter',
-            url: 'https://twitter.com/suwa_gakuseikai'
+            label: '陸上部Twitter',
+            url: 'https://twitter.com/SUS_TrackField'
           },
-          {
-            label: '公式ホームページ',
-            url: 'http://suwarikastud.wp.xdomain.jp/'
-          }
         ]
       },
-      { clubName: 'Sample3',
-        id: '03-Sample3',
+      { clubName: '硬式テニス部',
+        id: '06-hardTennis',
+        isMovie: false,
+        movieUrl: '',
+        links: []
+      },
+      { clubName: 'クライミング部',
+        id: '11-climbing',
         isMovie: false,
         movieUrl: '',
         links: [
           {
-            label: 'Twitter',
-            url: 'https://twitter.com/suwa_gakuseikai'
+            label: 'クライミングTwitter',
+            url: 'https://twitter.com/SuwarikaClimb'
           },
-          {
-            label: '公式ホームページ',
-            url: 'http://suwarikastud.wp.xdomain.jp/'
-          }
         ]
+      },
+      { clubName: 'サバイバルゲーム部',
+        id: '18-sabage',
+        isMovie: false,
+        movieUrl: '',
+        links: []
       },
     ]
   },
   {
     category: "文化系",
     clubs: [
-      { clubName: 'Sample4',
-        id: '04-Sample4',
+      { clubName: 'ボランティ',
+        id: '20-volunte',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
+            label: 'ボランティTwitter',
+            url: 'https://twitter.com/SusVolunteer'
+          },
+        ]
+      },
+      { clubName: '軽音学部',
+        id: '23-music',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
+            label: '軽音部Twitter',
+            url: 'https://twitter.com/sus_schoolband'
+          },
+          {
+            label: '軽音部Instagram',
+            url: 'https://www.instagram.com/sus_schoolband/'
+          }
+        ]
+      },
+      { clubName: 'E-Sports部',
+        id: '25-esports',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
+            label: 'E-Sports部Twitter',
+            url: 'https://twitter.com/sus__esports'
+          },
+          {
+            label: 'E-Sports部Youtube',
+            url: 'https://www.youtube.com/@sus_e-sports_capricorn/about'
+          },
+          {
+            label: 'E-Sports部twitch',
+            url: 'https://www.twitch.tv/sus__esports'
+          },
+        ]
+      },
+      { clubName: 'JAZZ研究会',
+        id: '30-jazz',
         isMovie: false,
         movieUrl: '',
         links: [
           {
             label: 'Twitter',
-            url: 'https://twitter.com/suwa_gakuseikai'
+            url: 'https://twitter.com/jazz_ken_tus'
           },
-          {
-            label: '公式ホームページ',
-            url: 'http://suwarikastud.wp.xdomain.jp/'
-          }
         ]
       },
-      { clubName: '動画',
-        id: 'movie',
-        isMovie: true,
-        movieUrl: 'https://www.youtube.com/embed/VtTNjp3KLlc',
+      { clubName: 'モノづくりサークル',
+        id: '37-craft',
+        isMovie: false,
+        movieUrl: '',
         links: [
           {
-            label: 'Twitter',
-            url: 'https://twitter.com/suwa_gakuseikai'
+            label: 'モノづくりサークル2023Twitter',
+            url: 'https://twitter.com/sus_monodukuri'
           },
-          {
-            label: '公式ホームページ',
-            url: 'http://suwarikastud.wp.xdomain.jp/'
-          }
         ]
       },
+      // { clubName: 'Sample4',
+      //   id: '04-Sample4',
+      //   isMovie: false,
+      //   movieUrl: '',
+      //   links: [
+      //     {
+      //       label: 'Twitter',
+      //       url: 'https://twitter.com/suwa_gakuseikai'
+      //     },
+      //     {
+      //       label: '公式ホームページ',
+      //       url: 'http://suwarikastud.wp.xdomain.jp/'
+      //     }
+      //   ]
+      // },
+      // { clubName: '動画',
+      //   id: 'movie',
+      //   isMovie: true,
+      //   movieUrl: 'https://www.youtube.com/embed/VtTNjp3KLlc',
+      //   links: [
+      //     {
+      //       label: 'Twitter',
+      //       url: 'https://twitter.com/suwa_gakuseikai'
+      //     },
+      //     {
+      //       label: '公式ホームページ',
+      //       url: 'http://suwarikastud.wp.xdomain.jp/'
+      //     }
+      //   ]
+      // },
     ]
   },
   {
