@@ -43,6 +43,21 @@ const publish_info = [
         movieUrl: '',
         links: []
       },
+      { clubName: '軟式野球部',
+        id: '03-workout',
+        isMovie: true,
+        movieUrl: '',
+        links: [
+          {
+            label: '軟式野球部Instagram',
+            url: 'https://instagram.com/sus_baseball'
+          },
+          {
+            label: '軟式野球部Twitter',
+            url: 'https://twitter.com/suwarikaBBC'
+          },
+        ]
+      },
       { clubName: '陸上競技部',
         id: '05-rikujou',
         isMovie: false,
@@ -172,6 +187,21 @@ const publish_info = [
           },
         ]
       },
+      { clubName: 'ってみた部',
+        id: '34-ttemita',
+        isMovie: true,
+        movieUrl: '',
+        links: [
+          {
+            label: 'ってみた部Instagram',
+            url: 'https://instagram.com/ttemitabu'
+          },
+          {
+            label: 'ってみた部Twitter',
+            url: 'https://twitter.com/ttemita_dayo'
+          },
+        ]
+      },
       { clubName: 'SuwaGeeks',
         id: '35-geeks',
         isMovie: false,
@@ -184,6 +214,21 @@ const publish_info = [
           {
             label: 'ホームページ',
             url: 'https://suwageeks.org/'
+          },
+        ]
+      },
+      { clubName: 'チノリカ',
+        id: '36-chinorika',
+        isMovie: true,
+        movieUrl: '',
+        links: [
+          {
+            label: 'チノリカInstagram',
+            url: 'https://instagram.com/chinorika22'
+          },
+          {
+            label: 'チノリカTwitter',
+            url: 'https://twitter.com/chinorikaLove'
           },
         ]
       },
