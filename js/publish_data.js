@@ -82,6 +82,12 @@ const publish_info = [
           },
         ]
       },
+      { clubName: 'ソフトバレーボールサークル',
+        id: '12-softvolley',
+        isMovie: false,
+        movieUrl: '',
+        links: []
+      },
       { clubName: '剣道部',
         id: '16-kendo',
         isMovie: false,
