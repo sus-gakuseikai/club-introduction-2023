@@ -2,6 +2,21 @@ const publish_info = [
   {
     category: '総務系',
     clubs: [
+      { clubName: '学生会',
+        id: '01-gakusei',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
+            label: '学生会Twitter',
+            url: 'https://twitter.com/suwa_gakuseikai'
+          },
+          {
+            label: '学生会ホームページ',
+            url: 'http://suwarikastud.wp.xdomain.jp/'
+          }
+        ]
+      },
       { clubName: '新風祭実行委員会',
         id: '02-shinpu',
         isMovie: false,
@@ -134,6 +149,12 @@ const publish_info = [
           },
         ]
       },
+      { clubName: 'アンサンブルサークル',
+        id: '28-ensemble',
+        isMovie: false,
+        movieUrl: '',
+        links: []
+      },
       { clubName: 'JAZZ研究会',
         id: '30-jazz',
         isMovie: false,
@@ -142,6 +163,21 @@ const publish_info = [
           {
             label: 'Twitter',
             url: 'https://twitter.com/jazz_ken_tus'
+          },
+        ]
+      },
+      { clubName: 'SuwaGeeks',
+        id: '35-geeks',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
+            label: 'Twitter',
+            url: 'https://twitter.com/suwa_gakuseikai'
+          },
+          {
+            label: 'ホームページ',
+            url: 'https://suwageeks.org/'
           },
         ]
       },
