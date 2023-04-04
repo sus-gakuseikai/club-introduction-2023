@@ -45,6 +45,17 @@ const publish_info = [
         movieUrl: '',
         links: []
       },
+      { clubName: 'ソフトテニス部',
+        id: '07-softTennis',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
+            label: 'Twitter',
+            url: 'https://twitter.com/suwarikasoftten'
+          },
+        ]
+      },
       { clubName: 'クライミング部',
         id: '11-climbing',
         isMovie: false,
@@ -53,6 +64,17 @@ const publish_info = [
           {
             label: 'クライミングTwitter',
             url: 'https://twitter.com/SuwarikaClimb'
+          },
+        ]
+      },
+      { clubName: '剣道部',
+        id: '16-kendo',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
+            label: 'Twitter',
+            url: 'https://twitter.com/suskendo'
           },
         ]
       },
