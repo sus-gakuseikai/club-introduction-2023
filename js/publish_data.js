@@ -114,6 +114,12 @@ const publish_info = [
           },
         ]
       },
+      { clubName: '卓球部',
+        id: '17-tabletennis',
+        isMovie: false,
+        movieUrl: '',
+        links: []
+      },
       { clubName: 'サバイバルゲーム部',
         id: '18-sabage',
         isMovie: false,
@@ -135,6 +141,12 @@ const publish_info = [
             url: 'https://twitter.com/SusVolunteer'
           },
         ]
+      },
+      { clubName: '写真部',
+        id: '22-photo',
+        isMovie: false,
+        movieUrl: '',
+        links: []
       },
       { clubName: '軽音学部',
         id: '23-music',
