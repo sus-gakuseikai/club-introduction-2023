@@ -46,7 +46,7 @@ const publish_info = [
       { clubName: '軟式野球部',
         id: '03-workout',
         isMovie: true,
-        movieUrl: '',
+        movieUrl: 'https://www.youtube.com/embed/sjLcGwAHRiY',
         links: [
           {
             label: '軟式野球部Instagram',
@@ -190,7 +190,7 @@ const publish_info = [
       { clubName: 'ってみた部',
         id: '34-ttemita',
         isMovie: true,
-        movieUrl: '',
+        movieUrl: 'https://www.youtube.com/embed/wrAETQQ_SCo',
         links: [
           {
             label: 'ってみた部Instagram',
@@ -220,7 +220,7 @@ const publish_info = [
       { clubName: 'チノリカ',
         id: '36-chinorika',
         isMovie: true,
-        movieUrl: '',
+        movieUrl: 'https://www.youtube.com/embed/W3_sl4lHgFA',
         links: [
           {
             label: 'チノリカInstagram',
