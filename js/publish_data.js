@@ -221,7 +221,7 @@ const publish_info = [
         links: [
           {
             label: 'Twitter',
-            url: 'https://twitter.com/suwa_gakuseikai'
+            url: 'https://twitter.com/SuwaGeeks'
           },
           {
             label: 'ホームページ',
