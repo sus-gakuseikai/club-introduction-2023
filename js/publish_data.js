@@ -103,6 +103,17 @@ const publish_info = [
         movieUrl: '',
         links: []
       },
+      { clubName: '弓道部',
+        id: '14-arch',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
+            label: 'Twitter',
+            url: 'https://twitter.com/suwarika_kyudo'
+          },
+        ]
+      },
       { clubName: '剣道部',
         id: '16-kendo',
         isMovie: false,
@@ -196,6 +207,23 @@ const publish_info = [
           {
             label: 'Twitter',
             url: 'https://twitter.com/jazz_ken_tus'
+          },
+        ]
+      },
+      { clubName: 'ロボット研究部',
+        id: '32-robot',
+        isMovie: false,
+        movieUrl: '',
+        links: []
+      },
+      { clubName: 'ボードゲーム部',
+        id: '33-boardgame',
+        isMovie: false,
+        movieUrl: '',
+        links: [
+          {
+            label: 'ボードゲーム部Twitter',
+            url: 'https://twitter.com/SUS_boardgame'
           },
         ]
       },
