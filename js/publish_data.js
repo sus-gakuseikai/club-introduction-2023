@@ -153,6 +153,12 @@ const publish_info = [
           },
         ]
       },
+      { clubName: 'AIサークル',
+        id: '21-ai',
+        isMovie: false,
+        movieUrl: '',
+        links: []
+      },
       { clubName: '写真部',
         id: '22-photo',
         isMovie: false,
